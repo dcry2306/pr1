@@ -6,7 +6,7 @@ setup(
     name='dcrypr',
     version='0.0.1',
     description='A simple package for https://app.tea.xyz/. Example pr1 - https://github.com/dcry2306/pr1.git and pr2 - https://github.com/dcry2306/pr2.git',
-    url='https://github.com/CryptoGu1/GuDory.git',
+    url='https://github.com/dcry2306/pr1.git',
     project_urls={
         'Homepage': 'https://github.com/dcry2306/pr1.git',
         'Source': 'https://github.com/dcry2306/pr1.git',
